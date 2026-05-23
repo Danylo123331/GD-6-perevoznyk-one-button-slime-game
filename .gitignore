@@ -75,3 +75,6 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 slime-game/[Ll]ibrary/
 *[Ll]ibrary*
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
