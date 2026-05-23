@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 070057bc1cab57347bb9ac5d2b491635
+timeCreated: 1573340804
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 158436
+  packageName: Shift The Shape - Shift jelly up and down to change its form so it
+    can fit through the obstacles. Endless hyper casual puzzle game
+  packageVersion: 1.0
+  assetPath: Assets/Shift The Shape/Graphics/Textures/Materials/main cube material.mat
+  uploadId: 341005

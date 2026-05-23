@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f53f1a24bb4ef8f4d879ea7b3a5197e5
+timeCreated: 1473078356
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 158436
+  packageName: Shift The Shape - Shift jelly up and down to change its form so it
+    can fit through the obstacles. Endless hyper casual puzzle game
+  packageVersion: 1.0
+  assetPath: Assets/Shift The Shape/Graphics/Materials/IgnitionFlameParticle.mat
+  uploadId: 341005

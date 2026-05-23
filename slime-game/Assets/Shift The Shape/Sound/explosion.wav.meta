@@ -1,0 +1,37 @@
+fileFormatVersion: 2
+guid: d097a9821c75da24295816d1baf4e097
+timeCreated: 1570924998
+licenseType: Store
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides:
+    7:
+      loadType: 0
+      sampleRateSetting: 0
+      sampleRateOverride: 44100
+      compressionFormat: 0
+      quality: 1
+      conversionMode: 0
+  forceToMono: 0
+  normalize: 1
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 158436
+  packageName: Shift The Shape - Shift jelly up and down to change its form so it
+    can fit through the obstacles. Endless hyper casual puzzle game
+  packageVersion: 1.0
+  assetPath: Assets/Shift The Shape/Sound/explosion.wav
+  uploadId: 341005
